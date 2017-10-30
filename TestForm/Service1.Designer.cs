@@ -1,4 +1,4 @@
-﻿namespace MyService
+﻿namespace TestForm
 {
 	partial class Service1
 	{
@@ -29,7 +29,7 @@
 		private void InitializeComponent()
 		{
 			components = new System.ComponentModel.Container();
-			this.ServiceName = "MyClockService";
+			this.ServiceName = "Service1";
 		}
 
 		#endregion
